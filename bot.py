@@ -1,3 +1,4 @@
+import testing
 import discord
 from flask import Flask
 import requests
